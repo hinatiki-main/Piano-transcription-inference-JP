@@ -3,3 +3,7 @@
 を簡単に使えるようにしたものです。
 
 音声ファイルのダウンロードからmidファイル書き出しまでコレ一つでできます。
+
+#使用方法
+(https://colab.research.google.com/drive/18ZqrfxYiUD9OdKUn4iz2dZH3nIOcK1R2?usp=sharing)
+↑コレにアクセス
